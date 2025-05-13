@@ -1,0 +1,9 @@
+[user]
+	name = Daniel Gallardo
+	email = danielgallardo.dev@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /home/daniel/.gitignore
+[credential]
+	helper = store
